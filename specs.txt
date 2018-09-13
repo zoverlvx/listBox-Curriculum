@@ -1,0 +1,9 @@
+- Create an input box that takes input from the client.
+- Create a button that submits the client input.
+- The submitted input should be added to a list as a list item.
+- There should be two lists.
+- When an item is clicked, it should be moved to the other list.
+- The client cannot submit an empty input.
+- The client should not be able to add input that is already in either of the lists.
+- Create specific headings and designs for each component as appropriate.
+  Simple user-friendly design.
